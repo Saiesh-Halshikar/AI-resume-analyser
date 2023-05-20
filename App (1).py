@@ -2,7 +2,7 @@
 
 #SET UP:
 
-# 1. INSTALL BELOW LIBRARIES
+#  INSTALL BELOW LIBRARIES
 
         #pip install -r requirements.txt
 
@@ -14,14 +14,6 @@
 
         # pip install pyresparser
 
-# 2. CREAT A FOLDER AND NAME IT (e.g. resume)
-        #2.1 create two more folders inside this folder (Logo and Uploaded_Resumes)
-        #2.2 create two python files (App.py and Courses.py)
-
-# 3. START YOUR SQL DATABASE
-
-
-# 4. CONTINUE WITH THE FOLLOWING CODE...
 
 import streamlit as st
 import pandas as pd
