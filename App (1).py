@@ -128,7 +128,7 @@ def run():
     st.sidebar.markdown("# Choose User")
     activities = ["User", "Admin"]
     choice = st.sidebar.selectbox("Choose among the given options:", activities)
-    link = '[©Developed by Dr,Briit](https://www.linkedin.com/in/mrbriit/)'
+    link = '[©Developed by Saiesh Halshikar](https://www.linkedin.com/in/saiesh-halshikar-1b3323222/)'
     st.sidebar.markdown(link, unsafe_allow_html=True)
 
 
